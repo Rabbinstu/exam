@@ -1,0 +1,173 @@
+
+/*		Tablet Layout: 768px.
+		Gutters: 24px.
+		Outer margins: 28px.
+		Inherits styles from: Default Layout.
+-----------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8
+px      68    160    252    344    436    528    620    712    */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	
+	body {
+		margin: 0 auto;
+	}
+
+		.headeroption {
+	height: 642px;
+}
+.msg1 {
+  font-size: 28px;
+  margin: 52% 17% 1%;
+  width: 73%;
+}
+.msg2 {
+  font-size: 28px;
+  margin: 0 3%;
+  width: 98%;
+}
+.portfolio-menu ul li {
+  padding: 2px 16px;
+}
+	.portfoliooption{
+	height: auto;
+}
+.serviceoption{
+	height: auto;
+}
+.defaultsection{
+	height: auto;
+}
+.twittersection{
+	height: auto;
+}
+.testimonialsection{
+	height: auto;
+}
+.contactsection{
+	height: auto;
+}
+.jhondoe_section{
+	height: auto;
+}
+.footersection{
+	height: auto;
+}
+}
+
+
+
+/*		Mobile Layout: 320px.
+		Gutters: 24px.
+		Outer margins: 34px.
+		Inherits styles from: Default Layout.
+---------------------------------------------
+cols    1     2      3
+px      68    160    252    */
+
+@media only screen and (max-width: 767px) {
+	
+	body {
+		margin: 0 auto;
+	}
+
+		.headeroption {
+	height: 300px;
+	}
+.msg1 {
+  font-size: 16px;
+  margin: 18% 3% 1%;
+  width: 91%;
+}
+.msg2 {
+  font-size: 14px;
+  margin: 0 1%;
+  width: 95%;
+}
+.portfolio-menu ul li {
+  font-size: 15px;
+  margin-bottom: 5%;
+  margin-left: -1px;
+  padding: 2px 15px;
+}
+.portfolio-menu ul li {
+  padding: 2px 16px;
+}
+	.portfoliooption{
+	height: auto;
+}
+.defaultsection{
+	height: auto;
+}
+.twittersection{
+	height: auto;
+}
+.testimonialsection{
+	height: auto;
+}
+.contactsection{
+	height: auto;
+}
+.jhondoe_section{
+	height: auto;
+}
+.footersection{
+	height: auto;
+}
+}
+
+
+
+/*		Wide Mobile Layout: 480px.
+		Gutters: 24px.
+		Outer margins: 22px.
+		Inherits styles from: Default Layout, Mobile Layout.
+------------------------------------------------------------
+cols    1     2      3      4      5
+px      68    160    252    344    436    */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	body {
+		margin: 0 auto;
+	}
+
+		.headeroption {
+	height: 380px;
+	}
+.msg1 {
+  font-size: 20px;
+  margin: 16% 22% 1%;
+  width: 57%;
+}
+.msg2 {
+  font-size: 20px;
+  margin: 0 10%;
+  width: 80%;
+}
+.portfolio-menu ul li {
+  padding: 2px 16px;
+}
+	.portfoliooption{
+	height: auto;
+}
+.defaultsection{
+	height: auto;
+}
+.twittersection{
+	height: auto;
+}
+.testimonialsection{
+	height: auto;
+}
+.contactsection{
+	height: auto;
+}
+.jhondoe_section{
+	height: auto;
+}
+.footersection{
+	height: auto;
+}
+}
+
